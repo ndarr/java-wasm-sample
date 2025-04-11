@@ -102,7 +102,7 @@
               <incremental>false</incremental>
               <targetType>JAVASCRIPT</targetType>
               <!-- Switch to COMMON_JS maybe later  -->
-              <jsModuleType>UMD</jsModuleType>
+              <jsModuleType>NONE</jsModuleType>
 
             </configuration>
           </execution>
